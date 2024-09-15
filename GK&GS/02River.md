@@ -428,3 +428,97 @@ Rivers in India can be classified into four main categories:
 Each of these rivers has its own unique characteristics, drainage basins, and cultural significance.
 
 
+## What is Mangroves ?
+
+
+```bash
+https://www.google.co.in/search?sca_esv=1c23d3a7d6e37ba2&sca_upv=1&sxsrf=ADLYWIIpq8q4GdKGFxtuseR5wvaHqkt2Pg:1726370352201&q=What+is+mangroves&udm=2&fbs=AEQNm0BKxFXqFZETuC92mLOmXO9xTuwl7LTqpjEikSHB2sNnAo_Nt6_jBoO5j_EG4ZXs8aQCufxT5WhqKxk_t3EFVMM67rI6i01ADbZ-a5wYaAsalDcO6S1GH-LO2-BpNO0GjKIvvxoXnjjP08V8RmhXnS3ZTYi7mGxclhyNM7kU-cEZojmfYb66zxZupqQ3TpTT-qjAIEt1CwlZuUTZOKSe8wS1nEmI6w&sa=X&ved=2ahUKEwj00d_c_sOIAxWOR2wGHZ4BLkwQtKgLegQIFRAB&biw=590&bih=580&dpr=1.5
+```
+
+Mangroves are a type of coastal ecosystem characterized by dense growths of mangrove trees, which are specifically adapted to thrive in harsh, salty conditions. These ecosystems are found in tropical and subtropical regions, typically in estuaries, deltas, and along shorelines.
+
+Key Features of Mangroves:
+
+1. Unique Trees: Mangrove trees have adapted to survive in saltwater environments, with features such as:
+    - Breathable roots (pneumatophores) for oxygen intake
+    - Salt-excreting glands
+    - Thick, waxy leaves for water conservation
+2. Coastal Protection: Mangroves provide natural barriers against:
+    - Storm surges
+    - Erosion
+    - Tsunamis
+3. Habitat Diversity: Mangroves support a wide range of plant and animal species, including:
+    - Fish (mullet, shrimp, crab)
+    - Birds (herons, egrets, kingfishers)
+    - Mammals (dolphins, manatees)
+    - Invertebrates (oysters, mussels)
+4. Ecological Services: Mangroves provide essential ecosystem services, including:
+    - Shoreline stabilization
+    - Water filtration
+    - Carbon sequestration
+    - Nursery grounds for marine life
+
+Types of Mangroves:
+
+1. Red Mangrove (Rhizophora mangle)
+2. Black Mangrove (Avicennia germinans)
+3. White Mangrove (Laguncularia racemosa)
+4. Grey Mangrove (Avicennia marina)
+
+Importance of Mangroves:
+
+1. Climate Change Mitigation
+2. Coastal Protection
+3. Biodiversity Conservation
+4. Fisheries and Livelihood Support
+5. Water Quality Maintenance
+
+Threats to Mangroves:
+
+1. Deforestation
+2. Coastal Development
+3. Pollution
+4. Overfishing
+5. Climate Change
+
+Conservation efforts are necessary to protect these vital ecosystems and ensure the continued provision of ecological services and benefits.
+
+
+## Q.5. The Godavari-Krishna mangroves is located in which of the following state of India ?
+
+[A] Andhra Pradesh
+[B] Tamil Nadu
+[C] Odisha
+[D] Maharashtra
+
+
+The correct answer is:
+
+
+[A] Andhra Pradesh
+
+
+The Godavari-Krishna mangroves are located in the coastal regions of Andhra Pradesh, specifically in the deltaic regions of the Godavari and Krishna rivers.
+
+
+These mangroves are part of the Eastern Ghats mangrove ecosystem and provide habitat for various species, including:
+
+
+1. Mangrove forests
+2. Salt-tolerant plants
+3. Marine life (fish, crustaceans, mollusks)
+4. Birds (migratory and resident)
+
+
+Andhra Pradesh has a significant coastline along the Bay of Bengal, supporting extensive mangrove forests.
+
+
+Other options are incorrect:
+
+
+- Tamil Nadu has mangroves, but they are primarily found in the Pichavaram and Pulicat Lake regions.
+- Odisha has mangroves along its coastline, particularly in the Bhitarkanika National Park.
+- Maharashtra has mangroves, mainly in the Sundarbans and along the Konkan coast.
+
+
+Note: Mangroves are vital ecosystems providing coastal protection, shoreline stabilization, and habitat for diverse species.
