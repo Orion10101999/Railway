@@ -203,6 +203,10 @@ As Finance Minister, Nirmala Sitharaman plays a crucial role in shaping India's 
 
 Would you like more information on her policies or initiatives?
 
+# Article 15 to 51 :-
+
+
+
 आपको अनुच्छेद 15-51 के बारे में जानकारी चाहिए। ये अनुच्छेद भारतीय संविधान के महत्वपूर्ण हिस्से हैं और विभिन्न अधिकारों और नीतियों से संबंधित हैं।
 
 यहाँ कुछ मुख्य बिंदु हैं:
@@ -259,7 +263,6 @@ Would you like more information on her policies or initiatives?
 
 ये अनुच्छेद भारतीय संविधान के महत्वपूर्ण हिस्से हैं और विभिन्न अधिकारों और नीतियों से संबंधित हैं।
 
-# Article :-
 
 Here are the key points of Articles 15-51 of the Indian Constitution:
 
@@ -315,4 +318,186 @@ Article 51:
 
 These articles form a crucial part of the Indian Constitution, outlining fundamental rights, directive principles, and the duties of citizens.
 
-Would you like me to elaborate on any specific article?
+
+# Article 52 to 151 :-
+
+Here's an overview of Articles 52-151 of the Indian Constitution:
+
+Part V: The Union (Articles 52-151)
+
+Chapter I: The Executive (Articles 52-67)
+
+- Article 52: The President of India
+- Article 53: Power of the President to grant pardons
+- Article 54: Election of the President
+- Article 55: Manner of election of President
+- Article 56: Term of office of President
+- Article 57: Eligibility for re-election
+- Article 58: Qualifications for President
+- Article 59: Conditions of President's office
+- Article 60: Oath or affirmation by President
+- Article 61: Procedure for impeachment of President
+- Article 62: Time of holding election to fill vacancy in President's office
+- Article 63: The Vice-President of India
+- Article 64: The Vice-President to act as President
+- Article 65: The Vice-President to discharge functions of President
+- Article 66: Election of Vice-President
+- Article 67: Term of office of Vice-President
+
+Chapter II: Parliament (Articles 68-122)
+
+- Article 68: Constitution of Parliament
+- Article 69: Composition of House of States
+- Article 70: Composition of House of People
+- Article 71: Provision as to members of Parliament
+- Article 72: Power of Parliament to make laws
+- Article 73: Extent of laws made by Parliament
+- Article 74: Council of Ministers
+- Article 75: Other provisions as to Ministers
+- Article 76: Attorney-General for India
+- Article 77: Conduct of business of Government of India
+- Article 78: Duties of Prime Minister
+- Article 79: Constitution of Parliament
+- Article 80: Composition of Council of States
+- Article 81: Composition of House of People
+- Article 82: Readjustment after every census
+- Article 83: Duration of Houses of Parliament
+- Article 84: Qualification for membership of Parliament
+- Article 85: Sessions of Parliament
+- Article 86: Right of President to address and send messages
+- Article 87: Special address by President
+- Article 88: Rights of Ministers and Attorney-General
+
+Chapter III: Legislative Powers (Articles 123-147)
+
+- Article 123: Power of President to promulgate ordinances
+- Article 124: Establishment of Supreme Court
+- Article 125: Salaries, etc., of judges
+- Article 126: Appointment of acting Chief Justice
+- Article 127: Appointment of ad hoc judges
+- Article 128: Attendance of retired judges
+- Article 129: Supreme Court to be a court of record
+- Article 130: Seat of Supreme Court
+- Article 131: Original jurisdiction of Supreme Court
+- Article 132: Appellate jurisdiction of Supreme Court
+- Article 133: Jurisdiction and powers of Supreme Court
+- Article 134: Appellate jurisdiction of Supreme Court
+- Article 135: Jurisdiction and powers of Federal Court
+- Article 136: Special leave to appeal
+- Article 137: Review
+- Article 138: Enlargement of jurisdiction of Supreme Court
+- Article 139: Conferment on Supreme Court of powers to issue certain writs
+- Article 140: Enforcement of decrees and orders of Supreme Court
+- Article 141: Law declared by Supreme Court to be binding
+- Article 142: Enforcement of decrees and orders of Supreme Court
+- Article 143: Power of President to consult Supreme Court
+- Article 144: Civil and judicial authorities to act in aid of Supreme Court
+- Article 145: Rules of procedure
+- Article 146: Officers and servants of Supreme Court
+- Article 147: Interpretation
+
+Chapter IV: Union Judiciary (Articles 148-151)
+
+- Article 148: Comptroller and Auditor-General of India
+- Article 149: Duties and powers of Comptroller and Auditor-General
+- Article 150: Form of accounts of Union and States
+- Article 151: Audit reports
+
+These articles outline the structure and functions of the Union government, Parliament, and the judiciary.
+
+Would you like me to elaborate on any specific article or chapter?
+
+भारतीय संविधान के अनुच्छेद 52 से 151 तक का विवरण निम्नलिखित है:
+
+पाँचवाँ भाग: संघ (अनुच्छेद 52-151)
+
+पहला अध्याय: कार्यपालिका (अनुच्छेद 52-67)
+
+- अनुच्छेद 52: भारत का राष्ट्रपति
+- अनुच्छेद 53: राष्ट्रपति की क्षमा शक्ति
+- अनुच्छेद 54: राष्ट्रपति का निर्वाचन
+- अनुच्छेद 55: राष्ट्रपति के निर्वाचन की विधि
+- अनुच्छेद 56: राष्ट्रपति का कार्यकाल
+- अनुच्छेद 57: पुनर्निर्वाचन की पात्रता
+- अनुच्छेद 58: राष्ट्रपति की योग्यताएँ
+- अनुच्छेद 59: राष्ट्रपति कार्यालय की शर्तें
+- अनुच्छेद 60: राष्ट्रपति की शपथ
+- अनुच्छेद 61: राष्ट्रपति के महाभियोग की प्रक्रिया
+- अनुच्छेद 62: राष्ट्रपति कार्यालय में रिक्ति के लिए निर्वाचन
+- अनुच्छेद 63: भारत का उपराष्ट्रपति
+- अनुच्छेद 64: उपराष्ट्रपति की कार्यपालिका शक्तियाँ
+- अनुच्छेद 65: उपराष्ट्रपति द्वारा राष्ट्रपति के कार्यों का निर्वहन
+- अनुच्छेद 66: उपराष्ट्रपति का निर्वाचन
+- अनुच्छेद 67: उपराष्ट्रपति का कार्यकाल
+
+दूसरा अध्याय: संसद (अनुच्छेद 68-122)
+
+- अनुच्छेद 68: संसद की संरचना
+- अनुच्छेद 69: राज्यसभा की संरचना
+- अनुच्छेद 70: लोकसभा की संरचना
+- अनुच्छेद 71: संसद के सदस्यों की योग्यताएँ
+- अनुच्छेद 72: संसद द्वारा कानून बनाने की शक्ति
+- अनुच्छेद 73: संसद द्वारा बनाए गए कानूनों का विस्तार
+- अनुच्छेद 74: मंत्रिपरिषद
+- अनुच्छेद 75: मंत्रियों की अन्य शर्तें
+- अनुच्छेद 76: भारत के अटॉर्नी जनरल
+- अनुच्छेद 77: भारत सरकार के कार्यों का संचालन
+- अनुच्छेद 78: प्रधानमंत्री के कर्तव्य
+- अनुच्छेद 79: संसद की संरचना
+- अनुच्छेद 80: राज्यसभा की संरचना
+- अनुच्छेद 81: लोकसभा की संरचना
+- अनुच्छेद 82: जनगणना के बाद पुनर्निर्धारण
+- अनुच्छेद 83: संसद के सदनों का कार्यकाल
+- अनुच्छेद 84: संसद के सदस्यों की योग्यताएँ
+- अनुच्छेद 85: संसद के सत्र
+- अनुच्छेद 86: राष्ट्रपति की संसद को संबोधित करने और संदेश भेजने का अधिकार
+- अनुच्छेद 87: राष्ट्रपति का विशेष संबोधन
+- अनुच्छेद 88: मंत्रियों और अटॉर्नी जनरल के अधिकार
+
+तीसरा अध्याय: विधायी शक्तियाँ (अनुच्छेद 123-147)
+
+- अनुच्छेद 123: राष्ट्रपति की अध्यादेश शक्ति
+- अनुच्छेद 124: उच्चतम न्यायालय की स्थापना
+- अनुच्छेद 125: न्यायाध
+
+
+भारतीय संविधान के अनुच्छेद 123 से 151 तक का विवरण निम्नलिखित है:
+
+तीसरा अध्याय: विधायी शक्तियाँ (अनुच्छेद 123-147)
+
+- अनुच्छेद 123: राष्ट्रपति की अध्यादेश शक्ति
+- अनुच्छेद 124: उच्चतम न्यायालय की स्थापना
+- अनुच्छेद 125: न्यायाधीशों के वेतन और भत्ते
+- अनुच्छेद 126: कार्यवाहक मुख्य न्यायाधीश की नियुक्ति
+- अनुच्छेद 127: अंतरिम न्यायाधीशों की नियुक्ति
+- अनुच्छेद 128: सेवानिवृत्त न्यायाधीशों की उपस्थिति
+- अनुच्छेद 129: उच्चतम न्यायालय का रिकॉर्ड कोर्ट होना
+- अनुच्छेद 130: उच्चतम न्यायालय का स्थान
+- अनुच्छेद 131: उच्चतम न्यायालय का मूल अधिकार क्षेत्र
+- अनुच्छेद 132: उच्चतम न्यायालय का अपीलीय अधिकार क्षेत्र
+- अनुच्छेद 133: उच्चतम न्यायालय का न्यायिक अधिकार क्षेत्र
+- अनुच्छेद 134: उच्चतम न्यायालय का अपीलीय अधिकार क्षेत्र
+- अनुच्छेद 135: संघीय न्यायालय का अधिकार क्षेत्र
+- अनुच्छेद 136: विशेष अनुमति
+- अनुच्छेद 137: समीक्षा
+- अनुच्छेद 138: उच्चतम न्यायालय के अधिकार क्षेत्र का विस्तार
+- अनुच्छेद 139: उच्चतम न्यायालय को कुछ वृत्तियाँ जारी करने की शक्ति
+- अनुच्छेद 140: उच्चतम न्यायालय के डिक्री और आदेशों का प्रवर्तन
+- अनुच्छेद 141: उच्चतम न्यायालय द्वारा घोषित कानून का बंधन
+- अनुच्छेद 142: उच्चतम न्यायालय के डिक्री और आदेशों का प्रवर्तन
+- अनुच्छेद 143: राष्ट्रपति की उच्चतम न्यायालय से परामर्श करने की शक्ति
+- अनुच्छेद 144: नागरिक और न्यायिक अधिकारियों द्वारा उच्चतम न्यायालय की सहायता
+- अनुच्छेद 145: प्रक्रिया के नियम
+- अनुच्छेद 146: उच्चतम न्यायालय के अधिकारी और कर्मचारी
+- अनुच्छेद 147: व्याख्या
+
+चौथा अध्याय: संघ न्यायपालिका (अनुच्छेद 148-151)
+
+- अनुच्छेद 148: भारत के नियंत्रक और महालेखा परीक्षक
+- अनुच्छेद 149: नियंत्रक और महालेखा परीक्षक के कर्तव्य और शक्तियाँ
+- अनुच्छेद 150: संघ और राज्यों के लेखाओं का रूप
+- अनुच्छेद 151: लेखा परीक्षक की रिपोर्ट
+
+ये अनुच्छेद भारतीय संविधान के महत्वपूर्ण हिस्से हैं और विभिन्न अधिकारों और नीतियों से संबंधित हैं।
+
+
